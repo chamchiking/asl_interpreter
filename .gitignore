@@ -1,6 +1,8 @@
 asl_images_in/*
 archive/
 archive/*
+archive/**
+
 .DS_Store
 **/.DS_Store
 */.DS_Store
