@@ -4,8 +4,9 @@ archive/*
 archive/**
 
 .DS_Store
+._.DS_Store
 **/.DS_Store
-*/.DS_Store
+**/._.DS_Store
 
 asl_yolo_dataset/
 asl_yolo_dataset/*
