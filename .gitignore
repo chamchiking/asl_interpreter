@@ -1,0 +1,23 @@
+asl_images_in/*
+archive/
+archive/*
+archive/**
+
+asl_videos/class/*
+asl_videos/images/*
+asl_videos/input_images/*
+
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+
+asl_yolo_dataset/
+asl_yolo_dataset/*
+
+
+# codes for testing
+test_vide_show.ipynb
+handposevideo.ipynb
